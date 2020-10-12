@@ -184,7 +184,7 @@ html.night .section__content .underline-link:after {
 
 
   }
- .buttons a:hover {
+.buttons a:hover {
     background: #2EE59D;
     box-shadow: 0 15px 20px rgba(46,229,157,.4);
     transform: translateY(-7px);
