@@ -676,6 +676,7 @@ strong {
 .intro__contact {
   font-size: 1.25rem;
   font-weight: 400;
+  margin-left: 5px;
 }
 @media screen and (max-width: 550px) {
   .intro__contact {
