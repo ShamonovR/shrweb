@@ -1,4 +1,4 @@
 RewriteEngine On
 RewriteCond %{SCRIPT_FILENAME} !-d
-RewriteRule ^([^.]+)$ $index.html [NC,L]
-RewriteRule ^([^.]+)$ $developer.html [NC,L]
+RewriteRule ^([^.]+)$ $1.html [NC,L]
+
